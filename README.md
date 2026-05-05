@@ -48,7 +48,7 @@ ecommerce-sales-analysis/
 
 ## 🚧 Project Status
 - [x] Repo setup
-- [ ] Excel exploration
+- [x] Excel exploration
 - [ ] SQL queries
 - [ ] Python analysis
 - [ ] Power BI dashboard
