@@ -28,16 +28,6 @@ Analyze sales performance across regions, categories, and customer segments to u
 
 ---
 
-## 📁 Project Structure
-ecommerce-sales-analysis/
-├── data/
-│   ├── raw/          # Original dataset
-│   └── cleaned/      # Cleaned dataset
-├── excel/            # Excel exploration file
-├── sql/              # SQL queries
-├── python/           # Analysis scripts & charts
-└── dashboard/        # Power BI dashboard
----
 
 ## 📊 Dataset
 - **Source:** [Superstore Dataset - Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
