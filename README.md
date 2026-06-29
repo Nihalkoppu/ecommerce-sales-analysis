@@ -40,5 +40,5 @@ Analyze sales performance across regions, categories, and customer segments to u
 - [x] Repo setup
 - [x] Excel exploration
 - [x] SQL queries
-- [ ] Python analysis
+- [x] Python analysis
 - [ ] Power BI dashboard
